@@ -60,11 +60,9 @@ author:
   avatar           : "golnaz.png"
   bio              : "Assistant Professor"
   employer         : "The University of Oklahoma"
-  googlescholar    : "https://scholar.google.com/citations?user=hU-LeNEAAAAJ&hl=en"
+  # googlescholar    : "https://scholar.google.com/citations?user=hU-LeNEAAAAJ&hl=en"
   email            : "golnaz@ou.edu"
   github           : "golnazhabibi3"
-
-
   pubmed           :
   researchgate     :
   uri              :
