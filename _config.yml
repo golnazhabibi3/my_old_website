@@ -24,8 +24,8 @@ description              : "-"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "golnazhabibi3/golnazhabibi3.github.io"
-teaser                   : "golnaz.png"
-logo                     : "golnaz.png"
+teaser                   : ""
+logo                     : ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,31 +103,19 @@ analytics:
 
 
 # Site Author
+
 author:
   name             : "Golnaz Habibi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "golnaz.png"
   bio              : "Assistant Professor"
-  location         : "The University of Oklahoma"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+  location         :
+  employer         : "The University of Oklahoma"
+#  youtube          : "https://www.youtube.com/playlist?list=PLnGTmjLktOnxYmjegt7ZZmMpu8qevyqMS"
+  googlescholar    : "https://scholar.google.com/citations?user=hU-LeNEAAAAJ&hl=en"
+  email            : "golnaz@ou.edu"
+  github           : "golnazhabibi3"
+
+
 
 # Site Footer
 footer:
