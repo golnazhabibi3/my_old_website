@@ -21,14 +21,14 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Golnaz Habibi"
 description              : "-"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "golnazhabibi3/golnazhabibi3.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "golnazhabibi3/golnazhabibi3.github.io"
-teaser                   : #""
-logo                     : #""
+teaser                   :  # ""
+logo                     :  #""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            :   false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 180
 
 # Social Sharing
 twitter:
@@ -47,7 +47,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"#, "google-universal", "google-gtag", "custom"
+  provider               : "google"    #, "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -210,14 +210,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
