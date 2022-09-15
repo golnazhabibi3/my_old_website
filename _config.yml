@@ -20,7 +20,7 @@ title                    : "Golnaz Habibi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Golnaz Habibi"
-description              : "Welcome to my homepage!"
+description              : &description "personal description"
 url                      : "https://golnazhabibi3.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,25 +109,7 @@ author:
   bio              : "Assistant Professor"
   location         : "The University of Oklahoma"
   email            : "golnaz[at]ou[dot]edu"
-  links:
-    - label: "Email"
-    #  icon: <i class="fa fa-envelope-square" aria-hidden="true"></i>
-       url: "mailto:golnaz@ou.edu"
-    - label: "Website"
-      # icon: "fab fa-fw fa-google-scholar-square"
-      url: "https://scholar.google.com/citations?user=hU-LeNEAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+  "
 
 # Site Footer
 footer:
