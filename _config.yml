@@ -111,7 +111,7 @@ author:
   email            : "golnaz[at]ou[dot]edu"
   links:
     - label: "Email"
-      icon: <i class="fa fa-envelope-square" aria-hidden="true"></i>
+    #  icon: <i class="fa fa-envelope-square" aria-hidden="true"></i>
        url: "mailto:golnaz@ou.edu"
     - label: "Website"
       # icon: "fab fa-fw fa-google-scholar-square"
