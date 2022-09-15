@@ -8,7 +8,13 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
-
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
