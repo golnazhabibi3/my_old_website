@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Golnaz Habibi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "golnaz.png"
   bio              : "Assistant Professor"
   location         : "The University of Oklahoma"
   email            : "golnaz[at]ou[dot]edu"
@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
        url: "mailto:golnaz@ou.edu"
     - label: "Website"
-      icon: "fab fa-fw fa-gogle-scholar-square"
+      icon: "fab fa-fw fa-google-scholar-square"
       url: "https://scholar.google.com/citations?user=hU-LeNEAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
