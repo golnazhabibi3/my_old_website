@@ -104,18 +104,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Golnaz Habibi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor"
-  location         : "Somewhere"
-  email            :
+  location         : "The University of Oklahoma"
+  email            : "golnaz[at]ou[dot]edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:golnaz@ou.edu"
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      icon: "fab fa-fw fa-gogle-scholar-square"
+      url: "https://scholar.google.com/citations?user=hU-LeNEAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
