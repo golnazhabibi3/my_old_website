@@ -47,7 +47,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google"#, "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -60,7 +60,7 @@ author:
   avatar           : "golnaz.png"
   bio              : "Assistant Professor"
   employer         : "The University of Oklahoma"
-  # googlescholar    : "https://scholar.google.com/citations?user=hU-LeNEAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=hU-LeNEAAAAJ&hl=en"
   email            : "golnaz@ou.edu"
   github           : "golnazhabibi3"
   pubmed           :
