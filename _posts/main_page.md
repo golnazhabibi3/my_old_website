@@ -8,7 +8,7 @@ redirect_from:
   - /main_page.html
 ---
 
-I'm currently an ** Assistant Professor ** of Department of Computer Science at the University of Oklahoma (known as OU). I am serving as a faculty of Computer Science and Data Science and Analytics Program at OU.
+I'm currently an Assistant Professor of Department of Computer Science at the University of Oklahoma (known as OU). I am serving as a faculty of Computer Science and Data Science and Analytics Program at OU.
 
 
 ---
