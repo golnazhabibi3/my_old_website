@@ -211,25 +211,26 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-     comments: true
-  # _publications
+  comments: true
+  # publications
   - scope:
       path: ""
-      type: publications
+      type: _publication
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _research
+  # research
   - scope:
       path: ""
-      type: research
+      type: _research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
+
 
 # Sass/SCSS
 #sass:
