@@ -5,10 +5,10 @@ main:
     url: /_posts/
     
   - title: "Research"
-    url: /research/
+    url: /_research/
 
   - title: "Publications"
-    url: /publications/
+    url: /_publication/
 
   - title: "Teaching"
-    url: /teaching/
+    url: /_teaching/
