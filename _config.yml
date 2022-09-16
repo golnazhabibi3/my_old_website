@@ -215,7 +215,7 @@ kramdown:
   # publications
   - scope:
       path: ""
-      type: _publication
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -224,7 +224,7 @@ kramdown:
   # research
   - scope:
       path: ""
-      type: _research
+      type: research
     values:
       layout: single
       author_profile: true
