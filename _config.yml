@@ -157,7 +157,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -213,9 +213,9 @@ kramdown:
 
 
 # Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+#sass:
+ # sass_dir: _sass
+ # style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
