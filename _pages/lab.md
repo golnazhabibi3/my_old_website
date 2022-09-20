@@ -1,10 +1,10 @@
 
 
 ---
+
 permalink: /lab/
 title:"Research lab"
 excerpt: "About lab"
-author_profile: "true"
 
 
 ---
