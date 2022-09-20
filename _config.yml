@@ -280,6 +280,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
