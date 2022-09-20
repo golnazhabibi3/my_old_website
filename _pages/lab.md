@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /lab/
 title:
 excerpt: "About lab"
 author_profile: "true"
