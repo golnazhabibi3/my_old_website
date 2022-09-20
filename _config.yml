@@ -22,6 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Golnaz Habibi"
 # description              : "An amazing website."
 url                      :  "https://golnazhabibi3.github.io"
+google-scholar:          : "https://scholar.google.com/citations?user=hU-LeNEAAAAJ"
 # baseurl                  :  "/blog"
 repository               :  "golnazhabibi3"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
