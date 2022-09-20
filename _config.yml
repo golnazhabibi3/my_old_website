@@ -272,7 +272,14 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
