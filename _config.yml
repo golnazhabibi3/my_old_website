@@ -201,18 +201,17 @@ incremental: false
 
 
 # Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-  comments: true
-  # publications
+  kramdown:
+   input: GFM
+    hard_wrap: false
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    toc_levels: 1..6
+    smart_quotes: lsquo,rsquo,ldquo,rdquo
+    enable_coderay: false
+    comments: true
+# publications
   - scope:
       path: ""
       type: publications
@@ -221,7 +220,7 @@ kramdown:
       author_profile: true
       share: true
       comments: true
-  # research
+ # research
   - scope:
       path: ""
       type: research
