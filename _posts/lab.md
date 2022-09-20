@@ -6,4 +6,4 @@ author_profile: "true"
 redirect_from: /_posts/lab.html
 
 ---
-Welocme to Robust Intelligent Robotics and AI (RIRAI) Lab!
+Welocme to Robust Intelligence and Interactive Robotic (RobIIRob) Lab!
